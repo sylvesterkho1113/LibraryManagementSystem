@@ -13,3 +13,9 @@ Java-based graphical user interface (GUI) application designed as a  library man
 - Borrow Books
 - Return Books
 - View Borrowing History
+
+## Team Member
+1. See Chwan Kai
+2. Kho Wei Cong
+3. Tee Kian Hao
+4. Tee Chin Yean
