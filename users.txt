@@ -1,0 +1,6 @@
+Chwan Kai,0167401234,Chwankai@gmail.com
+Kian Hao,0123456789,Kianhao@hotmail.com
+Wei Cong,0133333333,Weicong@live.com
+Chin Yean,01111111111,Chinyean@gmail.com
+Cust Test 1,0123456789,CTEST@gmail.com
+TEST2,01892379817,23@gmail.com

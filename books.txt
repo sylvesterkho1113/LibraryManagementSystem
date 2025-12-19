@@ -1,0 +1,17 @@
+1002,Mystic Meadows,Tom De Brune,Best Myterious Novel,false
+1004,Astral Echoes,Simon S,New Arrival,false
+1011,Harmony of Numbers,Daniel W.,Finding Balance in Math,true
+1008,Solar Serenade,Eva L.,Exploring the Sun,true
+1005,Intro to IT,Lim YQ,Fundamentals of IT,true
+1003,Eternal Embers,Tan SF,Great for kids,true
+1001,Math for numb,Jessica S.,A book for beginner,true
+1006,Dusk's Embrace,Shakesphere,The story of Dusk,true
+1007,Quantum Quest,Alex H.,Into Quantum Physics,true
+1009,Code Chronicles,Ryan M.,Adventures in Programming,false
+1010,CS Algorithms,Sophie K.,World of CS,true
+1012,Forgotten Realms,John D.,An epic adventure,true
+1013,Galactic Voyage,Amanda P.,Journey through stars,true
+1014,Digital Dreams,Michael Z.,Exploring the virtual world,true
+1015,Whispering Shadows,Emily K.,A tale of mystery,true
+1016,Ocean's Depths,Samuel L.,Diving into the unknown,true
+123,TEST,TEST,TEST,true
